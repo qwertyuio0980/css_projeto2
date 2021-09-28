@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+label {
+	width:15%;
+	float:left;
+	text-align:right;
+}
+
+.mandatory_field {
+	font-weight:bold;
+}
+
+.optional_field {
+	font-weight:normal;
+}
+
+div.button {
+	width: 15%;
+}
